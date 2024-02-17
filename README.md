@@ -1,10 +1,10 @@
 # AI-Fusion-project-iit-ropar-warriors-team.
 
-##Specify roles here
+## Specify roles here
 
 
 
-##Data collected currently
+## Data collected currently
 War hit regions     medical equipment required	      features
 India	              Basic first aid	                  languages
 russia vs ukraine	  painkillers	                      meds
