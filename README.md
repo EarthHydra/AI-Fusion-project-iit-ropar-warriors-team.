@@ -15,3 +15,6 @@ terrorist attacks	  ventilators	                      GPS (linkage with google m
 talibans in afghan	oxygen cylinders	                mobile app (next step after website)
 usa vs iraq	        blood samples, products	          contactless delivery
 	                  new instruments for doctors	      speed and efficiency
+
+
+## https://1drv.ms/p/s!AtQj0xww9OdGgUo8S9V4b0tLMSxm?e=MzmqoL
