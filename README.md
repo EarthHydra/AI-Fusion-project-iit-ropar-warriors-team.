@@ -1,8 +1,10 @@
 # AI-Fusion-project-iit-ropar-warriors-team.
 
 ## Specify roles here
-
-
+Nitin (leader)-website creation
+Prateek-PPT presentation and website data collector
+Ekansh-Data collection
+Ujjwal-PPT presentation and website datacollector
 
 ## Data collected currently
 War hit regions     medical equipment required	      features
