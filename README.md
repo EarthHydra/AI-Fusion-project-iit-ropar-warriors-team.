@@ -2,7 +2,7 @@
 
 ## Specify roles here
 Nitin (leader)-website creation
-Prateek-PPT presentation and website data collector
+Rinku-PPT presentation and website data collector
 Ekansh-Data collection
 Ujjwal-PPT presentation and website datacollector
 
